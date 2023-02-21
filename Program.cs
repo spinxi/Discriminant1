@@ -48,7 +48,7 @@ class GetDiscriminant
     // SET_GET C
     public void SetC()
     {
-        Console.Write("Second Number For B: ");
+        Console.Write("Third Number For B: ");
         string c = Console.ReadLine();
         int _c = Convert.ToInt32(c);
         this._c = _c;
